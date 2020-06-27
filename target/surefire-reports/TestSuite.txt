@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 19.841 sec <<< FAILURE!
+bankManagerLogin(com.automation.testCases.ManagerLoginTest)  Time elapsed: 2.109 sec  <<< FAILURE!
+java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+	at org.openqa.selenium.By.xpath(By.java:92)
+	at com.automation.testCases.ManagerLoginTest.bankManagerLogin(ManagerLoginTest.java:17)
+

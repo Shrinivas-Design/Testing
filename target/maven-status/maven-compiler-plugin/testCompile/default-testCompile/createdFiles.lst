@@ -1,0 +1,3 @@
+com\automation\testCases\AddCustomer.class
+com\automation\testCases\ManagerLoginTest.class
+com\auomation\base\TestBase.class
